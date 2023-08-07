@@ -1,3 +1,7 @@
+# Nuxt 3 LifeCycle
+
+![Alt text](public/de48ca.svg))
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
